@@ -49,7 +49,35 @@ rss_icon: true
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+navbar_fixed_maps:
+  en:
+    - page: about
+      target: /
+    - page: research
+      target: /research/
+    - page: publications
+      target: /publications/
+    - page: mentoring
+      target: /mentoring/
+    - page: blog
+      target: /blog/
+    - page: cv
+      target: /cv/
+  id:
+    - page: tentang
+      target: /
+    - page: penelitian
+      target: /research/
+    - page: publikasi
+      target: /publications/
+    - page: mentoring
+      target: /mentoring/
+    - page: blog
+      target: /blog/
+    - page: cv
+      target: /cv/
+
+footer_fixed: false
 search_enabled: true
 socials_in_search: true
 posts_in_search: true
