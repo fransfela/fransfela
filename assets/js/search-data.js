@@ -34,6 +34,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-research",
+          title: "research",
+          description: "My work in perceptual evaluation and audio-video quality assessment",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/research/";
+          },
         },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
