@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Dr. # the website title (if blank, full name will be used instead)
+title: Dr. Frans Fela # the website title (if blank, full name will be used instead)
 first_name: Randy
 middle_name: F.
 last_name: Fela
@@ -272,8 +272,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Fela]
+  first_name: [Randy, F.]
 
   style: apa
   locale: en
