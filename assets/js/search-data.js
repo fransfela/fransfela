@@ -41,6 +41,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-mentoringbangrandy",
+          title: "MentoringBangRandy",
+          description: "1-on-1 Mentoring for Master&#39;s, PhD &amp; Postdoc Applications",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/mentoring/";
+          },
         },{id: "nav-repositórios",
           title: "repositórios",
           description: "Edite o `_data/repositories.yml` e mude as listas `github_users` e `github_repos` para incluir seu próprio perfil do GitHub e repositórios.",
