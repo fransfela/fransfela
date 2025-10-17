@@ -90,27 +90,6 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/id-id/blog/";
               },
-            },{id: "dropdown-publicações",
-              title: "publicações",
-              description: "",
-              section: "",
-              handler: () => {
-                window.location.href = "/id-id/publications/";
-              },
-            },{id: "dropdown-projetos",
-              title: "projetos",
-              description: "",
-              section: "",
-              handler: () => {
-                window.location.href = "/id-id/projects/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "",
-              handler: () => {
-                window.location.href = "/id-id/blog/";
-              },
             },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
