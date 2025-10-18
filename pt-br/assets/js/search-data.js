@@ -90,6 +90,27 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/multi-language-al-folio/pt-br/blog/";
               },
+            },{id: "dropdown-publicações",
+              title: "publicações",
+              description: "",
+              section: "Outras opções",
+              handler: () => {
+                window.location.href = "/multi-language-al-folio/pt-br/publications/";
+              },
+            },{id: "dropdown-projetos",
+              title: "projetos",
+              description: "",
+              section: "Outras opções",
+              handler: () => {
+                window.location.href = "/multi-language-al-folio/pt-br/projects/";
+              },
+            },{id: "dropdown-blog",
+              title: "blog",
+              description: "",
+              section: "Outras opções",
+              handler: () => {
+                window.location.href = "/multi-language-al-folio/pt-br/blog/";
+              },
             },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
