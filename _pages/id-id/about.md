@@ -1,27 +1,44 @@
 ---
 page_id: about
 layout: about
-title: sobre
+title: tentang
 permalink: /
-subtitle: <a href='#'>Afiliações</a>. Endereço. Contatos. Lema. Etc.
+subtitle: Perceptual Evaluation Engineer | PhD | Mentor Riset
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 seu telefone do trabalho</p>
-    <p>123 seu endereço</p>
-    <p>Sua cidade, estado 12345</p>
+  image_circular: false
+  address: >
+    <p>Jabra, Copenhagen</p>
+    <p>Audio-Video Quality Expert</p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: true
+announcements:
+  enabled: true
+  scrollable: true
+  limit: 5
+latest_posts:
+  enabled: true
+  scrollable: true
+  limit: 3
+selected_papers: true
+social: true
 ---
 
-Escreva sua biografia aqui. Diga ao mundo sobre você. Adicione o link para o seu [subreddit](http://reddit.com) favorito. Você pode colocar uma foto também. O código já está dentro, basta nomear sua foto como `prof_pic.jpg` e colocá-la na pasta `img/`.
+Saya adalah Perceptual Evaluation Engineer di [Jabra](https://www.jabra.com/), di mana saya mengerjakan penilaian kualitas audio-video untuk perangkat komunikasi enterprise. Saya memiliki gelar PhD di bidang Teknik Elektro dari Technical University of Denmark, dengan fokus pada pemodelan perseptual dan metodologi evaluasi subjektif.
 
-Coloque seu endereço / caixa postal / outras informações logo abaixo da sua foto. Você também pode desabilitar qualquer um desses elementos editando a propriedade `profile` do cabeçalho YAML do seu `_pages/about.md`. Edite `_bibliography/papers.bib` e o Jekyll renderizará sua [página de publicações](/multi-language-al-folio/publications/) automaticamente.
+Minat riset saya mencakup **penilaian kualitas audio**, **psychoacoustics**, **machine learning untuk prediksi kualitas**, dan semakin berkembang ke **Natural Language Processing** serta aplikasi **Item Response Theory** dalam evaluasi perseptual.
 
-Adicione links para seus perfis de mídias sociais também. Este tema está configurado para usar [Font Awesome icons](https://fontawesome.com/) e [Academicons](https://jpswalsh.github.io/academicons/), como os visto abaixo. Adicione seu Facebook, Twitter, LinkedIn, Google Scholar ou simplesmente desative todos eles.
+Di luar pekerjaan teknis, saya passionate dalam mentoring calon peneliti. Melalui [MentoringBangRandy](/mentoring/), saya memberikan bimbingan 1-on-1 untuk mahasiswa Indonesia yang ingin melanjutkan studi Master, PhD, dan Postdoc di luar negeri.
+
+**Fokus saat ini:**
+- Mengembangkan metrik kualitas audio generasi terbaru
+- Menjembatani ilmu perseptual dengan machine learning
+- Membantu peneliti menavigasi perjalanan akademik mereka
+
+---
+
+[📧 Hubungi saya](mailto:rffela@gn.com) | 
+[📱 Follow di Instagram](https://instagram.com/fransfela) | 
+[🎥 Channel YouTube](https://www.youtube.com/@fransfela)
