@@ -50,7 +50,7 @@ ninja.data = [{
           },
         },{id: "nav-mentoringbangrandy",
           title: "MentoringBangRandy",
-          description: "Mentoring 1-on-1 untuk Master, PhD &amp; Postdoc Application",
+          description: "1-on-1 Mentoring for Master&#39;s, PhD &amp; Postdoc Applications",
           section: "",
           handler: () => {
             window.location.href = "/id-id/mentoring/";
