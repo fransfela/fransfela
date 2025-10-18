@@ -3,33 +3,43 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Perceptual Evaluation Engineer | PhD | Research Mentor
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpg  # Upload foto lo di assets/img/
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: >
+    <p>Jabra, Copenhagen</p>
+    <p>Audio-Video Quality Expert</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
+news: true  # includes a list of news items
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a Perceptual Evaluation Engineer at [Jabra](https://www.jabra.com/), where I work on audio-video quality assessment for enterprise communication devices. I hold a PhD in [Your Field] from [Your University], focusing on perceptual modeling and subjective evaluation methodologies.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/multi-language-al-folio/publications/) automatically.
+My research interests span **audio quality assessment**, **psychoacoustics**, **machine learning for quality prediction**, and increasingly, **Natural Language Processing** and **Item Response Theory** applications in perceptual evaluation.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond my technical work, I'm passionate about mentoring aspiring researchers. Through [MentoringBangRandy](/mentoring/), I provide 1-on-1 guidance for Indonesian students pursuing Master's, PhD, and Postdoc opportunities internationally.
+
+**Current focus:**
+- Developing next-generation audio quality metrics
+- Bridging perceptual science with machine learning
+- Helping researchers navigate their academic journey
+
+---
+
+[📧 Get in touch](mailto:rffela@gn.com) | 
+[📱 Follow me on Instagram](https://instagram.com/fransfela) | 
+[🎥 YouTube Channel](https://www.youtube.com/@fransfela)
+---
