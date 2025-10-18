@@ -45,37 +45,79 @@ repo_trophies:
 rss_icon: true
 
 # -----------------------------------------------------------------------------
-# Layout
+# Navigation - With Dropdowns
 # -----------------------------------------------------------------------------
 
-navbar_fixed: true
+# English Navigation
 navbar_fixed_maps:
   en:
     - page: about
       target: /
-    - page: research
-      target: /research/
-    - page: publications
-      target: /publications/
-    - page: mentoring
-      target: /mentoring/
+      
+    - page: research  # Dropdown parent
+      dropdown: true
+      children:
+        - title: overview
+          target: /research/
+        - title: publications
+          target: /publications/
+        - title: projects
+          target: /projects/
+        - title: cv
+          target: /cv/
+    
+    - page: mentoring  # Dropdown parent
+      dropdown: true
+      children:
+        - title: about
+          target: /mentoring/
+        - title: services
+          target: /mentoring/services/
+        - title: success stories
+          target: /mentoring/stories/
+        - title: resources
+          target: /mentoring/resources/
+    
     - page: blog
       target: /blog/
-    - page: cv
-      target: /cv/
+    
+    - page: contact
+      target: /contact/
+
+  # Indonesian Navigation
   id:
     - page: tentang
       target: /
-    - page: penelitian
-      target: /research/
-    - page: publikasi
-      target: /publications/
-    - page: mentoring
-      target: /mentoring/
+      
+    - page: riset  # Dropdown parent
+      dropdown: true
+      children:
+        - title: ringkasan
+          target: /research/
+        - title: publikasi
+          target: /publications/
+        - title: proyek
+          target: /projects/
+        - title: cv
+          target: /cv/
+    
+    - page: mentoring  # Dropdown parent
+      dropdown: true
+      children:
+        - title: tentang
+          target: /mentoring/
+        - title: layanan
+          target: /mentoring/services/
+        - title: kisah sukses
+          target: /mentoring/stories/
+        - title: resources
+          target: /mentoring/resources/
+    
     - page: blog
       target: /blog/
-    - page: cv
-      target: /cv/
+    
+    - page: kontak
+      target: /contact/
 
 footer_fixed: false
 search_enabled: true
