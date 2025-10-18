@@ -50,7 +50,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Esta é uma descrição da página. Você pode modificá-la em &#39;_pages/cv.md&#39;. Também pode alterar ou remover o botão no topo de download de pdf.",
+          description: "Curriculum Vitae",
           section: "menu de navigation",
           handler: () => {
             window.location.href = "/multi-language-al-folio/fr-ca/cv/";
