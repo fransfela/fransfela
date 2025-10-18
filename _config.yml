@@ -2,24 +2,15 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Dr. Frans Fela # the website title (if blank, full name will be used instead)
-first_name: Randy
-middle_name: F.
-last_name: Fela
-email: randyrff@gmail.com
+title: blank # the website title (if blank, full name will be used instead)
+first_name: You
+middle_name: R.
+last_name: Name
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-description: > # Elevator pitch lo (muncul di meta tags)
-  Perceptual Evaluation Engineer at Jabra | PhD in Audio-Video Quality Assessment | 
-  Research Mentor helping aspiring scholars
-
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with 
-  <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  
-url: https://fransfela.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+url: https://george-gca.github.io # the base hostname & protocol for your site
+baseurl: /multi-language-al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -45,81 +36,11 @@ repo_trophies:
 rss_icon: true
 
 # -----------------------------------------------------------------------------
-# Navigation - With Dropdowns
+# Layout
 # -----------------------------------------------------------------------------
 
-# English Navigation
-navbar_fixed_maps:
-  en:
-    - page: about
-      target: /
-      
-    - page: research  # Dropdown parent
-      dropdown: true
-      children:
-        - title: overview
-          target: /research/
-        - title: publications
-          target: /publications/
-        - title: projects
-          target: /projects/
-        - title: cv
-          target: /cv/
-    
-    - page: mentoring  # Dropdown parent
-      dropdown: true
-      children:
-        - title: about
-          target: /mentoring/
-        - title: services
-          target: /mentoring/services/
-        - title: success stories
-          target: /mentoring/stories/
-        - title: resources
-          target: /mentoring/resources/
-    
-    - page: blog
-      target: /blog/
-    
-    - page: contact
-      target: /contact/
-
-  # Indonesian Navigation
-  id:
-    - page: tentang
-      target: /
-      
-    - page: riset  # Dropdown parent
-      dropdown: true
-      children:
-        - title: ringkasan
-          target: /research/
-        - title: publikasi
-          target: /publications/
-        - title: proyek
-          target: /projects/
-        - title: cv
-          target: /cv/
-    
-    - page: mentoring  # Dropdown parent
-      dropdown: true
-      children:
-        - title: tentang
-          target: /mentoring/
-        - title: layanan
-          target: /mentoring/services/
-        - title: kisah sukses
-          target: /mentoring/stories/
-        - title: resources
-          target: /mentoring/resources/
-    
-    - page: blog
-      target: /blog/
-    
-    - page: kontak
-      target: /contact/
-
-footer_fixed: false
+navbar_fixed: true
+footer_fixed: true
 search_enabled: true
 socials_in_search: true
 posts_in_search: true
@@ -342,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Fela]
-  first_name: [Randy, F.]
+  last_name: [Einstein]
+  first_name: [Albert, A.]
 
   style: apa
   locale: en
@@ -423,9 +344,9 @@ external_links:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-languages: ["en-us", "id-id"]
+languages: ["en-us", "pt-br", "fr-ca"]
 default_lang: "en-us"
-exclude_from_localization: ["assets", "CNAME"]
+exclude_from_localization: ["assets"]
 lang_from_path: true
 country_flag: false # set true for allowing flag symbol in language toggle
 parallel_localization: false
@@ -475,7 +396,7 @@ enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
-enable_navbar_social: true # enables displaying social links in the navbar on the about page
+enable_navbar_social: false # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
