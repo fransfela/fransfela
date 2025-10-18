@@ -50,7 +50,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Esta é uma descrição da página. Você pode modificá-la em &#39;_pages/cv.md&#39;. Também pode alterar ou remover o botão no topo de download de pdf.",
+          description: "Curriculum Vitae",
           section: "",
           handler: () => {
             window.location.href = "/id-id/cv/";
@@ -70,27 +70,6 @@ ninja.data = [{
             window.location.href = "/id-id/people/";
           },
         },{id: "dropdown-publicações",
-              title: "publicações",
-              description: "",
-              section: "",
-              handler: () => {
-                window.location.href = "/id-id/publications/";
-              },
-            },{id: "dropdown-projetos",
-              title: "projetos",
-              description: "",
-              section: "",
-              handler: () => {
-                window.location.href = "/id-id/projects/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "",
-              handler: () => {
-                window.location.href = "/id-id/blog/";
-              },
-            },{id: "dropdown-publicações",
               title: "publicações",
               description: "",
               section: "",
