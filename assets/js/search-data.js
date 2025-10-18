@@ -34,26 +34,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/multi-language-al-folio/publications/";
           },
-        },{id: "nav-research",
-          title: "research",
-          description: "My work in perceptual evaluation and audio-video quality assessment",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/multi-language-al-folio/research/";
-          },
         },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/multi-language-al-folio/projects/";
-          },
-        },{id: "nav-mentoringbangrandy",
-          title: "MentoringBangRandy",
-          description: "1-on-1 Mentoring for Master&#39;s, PhD &amp; Postdoc Applications",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/multi-language-al-folio/mentoring/";
           },
         },{id: "nav-repositories",
           title: "repositories",
