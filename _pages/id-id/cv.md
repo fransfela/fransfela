@@ -3,10 +3,12 @@ page_id: cv
 layout: cv
 permalink: /cv/
 title: cv
-nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf
-description: Esta é uma descrição da página. Você pode modificá-la em '_pages/cv.md'. Também pode alterar ou remover o botão no topo de download de pdf.
+nav: false
+nav_order: 6
+cv_pdf: cv_randy_fela_id.pdf
+description: Curriculum Vitae
+lang: id
+cv_data: cv_id  # ← loads _data/cv_id.json
 toc:
   sidebar: left
 ---
