@@ -7,14 +7,14 @@ nav_order: 8
 dropdown: true
 children:
   - title: About
-    permalink: /mentoring-about/
+    permalink: /mentoring_about/
   - title: divider
   - title: Service
-    permalink: /mentoring-service/
+    permalink: /mentoring_services/
   - title: divider
   - title: What they say
-      permalink: /mentoring-testimoni/
+      permalink: /mentoring_testimonials/
   - title: divider
   - title: Contact
-      permalink: /mentoring-contact/
+      permalink: /mentoring_contact/
 ---
