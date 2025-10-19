@@ -14,8 +14,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-tentang",
-    title: "tentang",
+    id: "nav-tentang-saya",
+    title: "Tentang saya",
     section: "",
     handler: () => {
       window.location.href = "/id-id/";
