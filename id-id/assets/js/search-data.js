@@ -62,13 +62,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/id-id/teaching/";
           },
-        },{id: "nav-membros",
-          title: "membros",
-          description: "membros do grupo de pesquisa ou laboratório",
-          section: "",
-          handler: () => {
-            window.location.href = "/id-id/people/";
-          },
         },{id: "dropdown-tentang",
               title: "Tentang",
               description: "",
