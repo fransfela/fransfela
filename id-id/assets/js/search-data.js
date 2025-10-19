@@ -41,26 +41,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/id-id/projects/";
           },
-        },{id: "nav-repositórios",
-          title: "repositórios",
-          description: "Edite o `_data/repositories.yml` e mude as listas `github_users` e `github_repos` para incluir seu próprio perfil do GitHub e repositórios.",
-          section: "",
-          handler: () => {
-            window.location.href = "/id-id/repositories/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "Curriculum Vitae",
           section: "",
           handler: () => {
             window.location.href = "/id-id/cv/";
-          },
-        },{id: "nav-ensino",
-          title: "ensino",
-          description: "Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.",
-          section: "",
-          handler: () => {
-            window.location.href = "/id-id/teaching/";
           },
         },{id: "dropdown-tentang",
               title: "Tentang",
