@@ -42,7 +42,7 @@ ninja.data = [{
             window.location.href = "/projects/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "Curriculum Vitae",
           section: "Navigation menu",
           handler: () => {
