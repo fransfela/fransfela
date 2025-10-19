@@ -12,9 +12,6 @@ children:
   - title: Service
     permalink: /mentoring_services/
   - title: divider
-  - title: Testimonials
-      permalink: /mentoring_testimonials/
-  - title: divider
   - title: Contact
       permalink: /mentoring_contact/
 ---
