@@ -1,17 +1,14 @@
 ---
 id: dropdown
 layout: page
-title: submenus
+title: Mentoring
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publicações
-    permalink: /publications/
+  - title: Tentang
+    permalink: /mentoring_about/
   - title: divider
-  - title: projetos
-    permalink: /projects/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Layanan
+    permalink: /mentoring_services/
 ---
