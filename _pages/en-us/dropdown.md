@@ -12,7 +12,7 @@ children:
   - title: Service
     permalink: /mentoring_services/
   - title: divider
-  - title: What they say
+  - title: Testimonials
       permalink: /mentoring_testimonials/
   - title: divider
   - title: Contact
