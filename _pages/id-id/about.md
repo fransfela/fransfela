@@ -26,7 +26,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Saya adalah Perceptual Evaluation Engineer di [Jabra](https://www.jabra.com/), di mana saya mengerjakan penilaian kualitas audio-video untuk perangkat komunikasi enterprise. Saya memiliki gelar PhD di bidang [Perceptual Evaluation of Immersive Audio-visual Technology] (https://orbit.dtu.dk/en/publications/perceptual-evaluation-of-immersive-audiovisual-quality) dari [Technical University of Denmark](https://electro.dtu.dk/), dengan fokus pada pemodelan perseptual dan metodologi evaluasi subjektif.
+Saya adalah Perceptual Evaluation Engineer di [Jabra](https://www.jabra.com/), di mana saya mengerjakan penilaian kualitas audio-video untuk perangkat komunikasi enterprise. Saya memiliki gelar PhD di bidang [Perceptual Evaluation of Immersive Audio-visual Technology](https://orbit.dtu.dk/en/publications/perceptual-evaluation-of-immersive-audiovisual-quality) dari [Technical University of Denmark](https://electro.dtu.dk/), dengan fokus pada pemodelan perseptual dan metodologi evaluasi subjektif.
 
 Minat riset saya mencakup **penilaian kualitas audio dan video**, **psikoakustika**, **machine learning untuk prediksi kualitas**, dan semakin berkembang ke **Natural Language Processing** serta aplikasi **Item Response Theory** dalam evaluasi persepsi.
 
