@@ -69,26 +69,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/id-id/people/";
           },
-        },{id: "dropdown-publicações",
-              title: "publicações",
+        },{id: "dropdown-tentang",
+              title: "Tentang",
               description: "",
               section: "",
               handler: () => {
-                window.location.href = "/id-id/publications/";
+                window.location.href = "/id-id/mentoring_about/";
               },
-            },{id: "dropdown-projetos",
-              title: "projetos",
+            },{id: "dropdown-layanan",
+              title: "Layanan",
               description: "",
               section: "",
               handler: () => {
-                window.location.href = "/id-id/projects/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "",
-              handler: () => {
-                window.location.href = "/id-id/blog/";
+                window.location.href = "/id-id/mentoring_services/";
               },
             },{id: "post-a-post-with-plotly-js",
         
