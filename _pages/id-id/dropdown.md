@@ -7,8 +7,8 @@ nav_order: 8
 dropdown: true
 children:
   - title: Tentang
-    permalink: /mentoring_about/
+    permalink: /mentoring_tentang/
   - title: divider
   - title: Layanan
-    permalink: /mentoring_services/
+    permalink: /mentoring_layanan/
 ---
