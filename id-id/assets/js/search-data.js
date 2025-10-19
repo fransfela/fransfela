@@ -74,14 +74,14 @@ ninja.data = [{
               description: "",
               section: "",
               handler: () => {
-                window.location.href = "/id-id/mentoring_about/";
+                window.location.href = "/id-id/mentoring_tentang/";
               },
             },{id: "dropdown-layanan",
               title: "Layanan",
               description: "",
               section: "",
               handler: () => {
-                window.location.href = "/id-id/mentoring_services/";
+                window.location.href = "/id-id/mentoring_layanan/";
               },
             },{id: "post-a-post-with-plotly-js",
         
