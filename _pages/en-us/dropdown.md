@@ -11,7 +11,4 @@ children:
   - title: divider
   - title: Service
     permalink: /mentoring_services/
-  - title: divider
-  - title: Contact
-      permalink: /mentoring_contact/
 ---
