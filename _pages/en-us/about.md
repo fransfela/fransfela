@@ -26,7 +26,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a Perceptual Evaluation Engineer at [Jabra](https://www.jabra.com/), where I work on audio-video quality assessment for enterprise communication devices. I hold a PhD in [Perceptual Evaluation of Immersive Audio-visual Technology] (https://orbit.dtu.dk/en/publications/perceptual-evaluation-of-immersive-audiovisual-quality) from [Technical University of Denmark](https://electro.dtu.dk/), focusing on perceptual modeling and subjective evaluation methodologies.
+I'm a Perceptual Evaluation Engineer at [Jabra](https://www.jabra.com/), where I work on audio-video quality assessment for enterprise communication devices. I hold a PhD in [Perceptual Evaluation of Immersive Audio-visual Technology](https://orbit.dtu.dk/en/publications/perceptual-evaluation-of-immersive-audiovisual-quality) from [Technical University of Denmark](https://electro.dtu.dk/), focusing on perceptual modeling and subjective evaluation methodologies.
 
 My research interests span **audio-video quality assessment**, **psychoacoustics**, **machine learning for quality prediction**, and increasingly, **Natural Language Processing** and **Item Response Theory** applications in perceptual evaluation.
 
