@@ -1,1 +1,160 @@
+<!-- Hero Section -->
+<div class="hero-section">
+  <h1>Dari Kuli Pabrik ke Denmark</h1>
+  <p class="subtitle">Perjalanan anak STM yang percaya pendidikan bisa mengubah segalanya</p>
+</div>
 
+<!-- Introduction -->
+<section class="intro">
+  <p class="lead">Halo! Saya <strong>Randy F. Fela</strong>. Sekarang saya kerja sebagai Perceptual (Audio-Video) Evaluation Engineer di Jabra, Denmark, dengan gelar PhD dari Technical University of Denmark.</p>
+  
+  <p>Tapi 15 tahun lalu? Saya cuma anak STM yang kerja serabutan di Jakarta, upah Rp 250-500 ribu sebulan. Pernah jadi kuli pabrik di perusahaan otomotif. Saat itu saya kepikiran: <em>"Kalo gak ngambil langkah sekarang, gue bakal застрять di sini selamanya."</em></p>
+  
+  <p>Jadi saya mulai nabung dikit-dikit sambil belajar Bahasa Inggris sendiri setelah pulang kerja. Dan somehow, tahun 2010, saya lolos UGM. Itu awal dari semuanya.</p>
+</section>
+
+<!-- Journey Timeline -->
+<section class="journey-timeline">
+  <h2>Perjalanan Saya</h2>
+  
+  <div class="timeline-item">
+    <div class="year">2010</div>
+    <div class="content">
+      <h3>Titik Balik: UGM</h3>
+      <p>Diterima di Universitas Gadjah Mada. Tapi survive di Jogja bukan hal mudah. Saya kerja macam-macam: ngajar les, jualan di pasar pagi, jaga warnet, asisten dosen. Yang bikin bertahan? <strong>Beasiswa.</strong> Bukan cuma soal uang, tapi soal akses ke peluang yang lebih besar.</p>
+    </div>
+  </div>
+  
+  <div class="timeline-item">
+    <div class="year">2013</div>
+    <div class="content">
+      <h3>Pertama Kali Keluar Negeri</h3>
+      <p>Ke Hong Kong, full funded buat konferensi pemuda. Disitu mata saya kebuka: <em>"Oh, dunia itu lebih luas dari yang gue pikir."</em> Dari situ saya makin hungry buat cari beasiswa internasional.</p>
+    </div>
+  </div>
+  
+  <div class="timeline-item">
+    <div class="year">2014-2020</div>
+    <div class="content">
+      <h3>Berburu dan Dapat Beasiswa</h3>
+      <p>Saya terus apply, ditolak, belajar, apply lagi. Akhirnya dapet:</p>
+      <ul>
+        <li>🎓 <strong>Australia Awards Scholarship</strong> - Short Course</li>
+        <li>🎓 <strong>University of Southampton</strong> - International Merit Scholarship</li>
+        <li>🎓 <strong>ITB Sandwich Program</strong></li>
+        <li>🎓 <strong>Marie Skłodowska-Curie Action (EU)</strong> - PhD funding</li>
+      </ul>
+    </div>
+  </div>
+  
+  <div class="timeline-item">
+    <div class="year">Sekarang</div>
+    <div class="content">
+      <h3>Denmark & Beyond</h3>
+      <p>Kerja di Jabra sebagai Audio-Video Evaluation Engineer & Researcher. Udah keliling <strong>15+ negara</strong>. Ketemu banyak orang: fellow scholars, reviewers, selection committees, professors.</p>
+      <p>Dan yang penting: saya sekarang ngerti prosesnya <em>dari dua sisi</em> — sebagai pelamar dan sebagai reviewer.</p>
+    </div>
+  </div>
+</section>
+
+<!-- Why Mentoring -->
+<section class="why-mentoring">
+  <h2>Kenapa Saya Mulai Mentoring?</h2>
+  
+  <p class="lead">Dulu waktu struggle sendirian, saya selalu kepikiran: <em>"Andai ada yang bisa ngebimbing, pasti prosesnya gak se-confusing ini."</em></p>
+  
+  <p>Sekarang saya ada di posisi itu. Dan saya pengen jadi orang yang dulu saya butuhin.</p>
+  
+  <div class="pain-points">
+    <h3>Saya Tau Rasanya:</h3>
+    <ul>
+      <li>❌ <strong>Bingung harus mulai dari mana</strong> — Info beasiswa bejibun, tapi mana yang cocok?</li>
+      <li>❌ <strong>Gak punya mentor</strong> — Pengen tanya tapi gak tau ke siapa</li>
+      <li>❌ <strong>Imposter syndrome</strong> — "Gue gak sepintar mereka, gue gak layak"</li>
+      <li>❌ <strong>Dokumen yang bikin frustasi</strong> — Motivation letter kok rasanya flat banget ya?</li>
+      <li>❌ <strong>Nervous waktu interview</strong> — Grogi, blank, gak confident</li>
+    </ul>
+  </div>
+  
+  <blockquote class="mission">
+    <p><strong>MentoringBangRandy</strong> bukan jualan. Ini misi saya buat bantu orang-orang yang background-nya kayak saya dulu — yang punya mimpi tapi gak punya akses. Makanya saya buka <strong>limited seats</strong> aja, biar saya bisa all-in ke setiap mentee.</p>
+  </blockquote>
+</section>
+
+<!-- Real Testimonials -->
+<section class="testimonials">
+  <h2>Kata Mereka yang Udah Ikut Mentoring</h2>
+  <p class="subtitle">Real feedback from real people (verified dari survey form)</p>
+  
+  <div class="testimonial-card featured">
+    <div class="rating">⭐⭐⭐⭐⭐ (5/5)</div>
+    <blockquote>
+      <p>"Awalnya saya buat resume <strong>5 halaman</strong>, menurut saya waktu itu udah paling compact. Surprisingly, setelah pertemuan pertama, beberapa hari kemudian <strong>Kak Randy share draft resume 2 halaman</strong>. Beliau paham benar bagaimana membuat CV yang concise dan padat informasinya, tanpa terkesan terlihat penuh. Bahkan beliau juga <strong>memastikan tiap link yang tersedia itu aktif</strong> dan valid informasinya."</p>
+    </blockquote>
+    <cite>— <strong>Yustina</strong>, Badan POM<br>
+    <span class="target">Target: PhD di University of Groningen</span></cite>
+    <div class="outcome">Status: Sedang proses apply, lolos tahap dokumen</div>
+  </div>
+  
+  <div class="testimonial-card">
+    <div class="rating">⭐⭐⭐⭐⭐ (5/5)</div>
+    <blockquote>
+      <p>"Saya sebelumnya sudah pernah apply beasiswa, namun <strong>permasalahan terbesar adalah bagaimana mengaitkan benang merah</strong> antara background, current situation dan plan. Ketika dimentorin dengan Mas Randy saya cukup banyak belajar tentang strategi ini serta <strong>bagaimana menuliskan pengalaman bertahun-tahun dalam kalimat yang singkat dan padat (concise)</strong>. Hasilnya saya cukup puas dengan kualitas essay scholarship saya kali ini."</p>
+    </blockquote>
+    <cite>— <strong>Ipol</strong>, INDICO by Telkomsel<br>
+    <span class="target">Target: Chevening Scholarship</span></cite>
+    <div class="outcome">Status: Sedang apply</div>
+  </div>
+  
+  <div class="testimonial-card">
+    <div class="rating">⭐⭐⭐⭐⭐ (5/5)</div>
+    <blockquote>
+      <p>"<strong>Mas Randy memiliki wawasan yang sangat luas</strong>, terbukti ketika menangani CV dan resume saya, beliau langsung paham, <strong>meski kami berasal dari bidang yang berbeda</strong>. Beliau juga memberikan file resume versi Word agar ke depannya jika ada vacancy yang lain saya bisa revisi master resume tersebut. Kereen!!"</p>
+    </blockquote>
+    <cite>— <strong>Yustina</strong>, Badan POM</cite>
+  </div>
+  
+  <div class="testimonial-card">
+    <div class="rating">⭐⭐⭐⭐⭐ (5/5)</div>
+    <blockquote>
+      <p>"Dalam salah satu sesi mentoring, saya sempat merasa bingung menentukan <strong>arah karier setelah studi lanjut</strong>. Mentor saya membantu saya melihat kembali kekuatan, minat, dan nilai yang saya miliki. <strong>Beliau tidak memberi jawaban langsung, tetapi mengarahkan dengan pertanyaan reflektif</strong> dan berbagi pengalaman pribadi. Sesi itu menjadi titik balik yang membuat saya lebih jelas dan percaya diri."</p>
+    </blockquote>
+    <cite>— <strong>Nafiatur Rizqoh</strong>, Fenanza Company<br>
+    <span class="target">Target: PhD di Aarhus University</span></cite>
+    <div class="outcome">Ambil: Full package (ML + CV + LoP + Proposal + Mock Interview)</div>
+  </div>
+  
+  <div class="testimonial-card">
+    <div class="rating">⭐⭐⭐⭐⭐ (5/5)</div>
+    <blockquote>
+      <p>"<strong>Humble, pengalaman dan ilmu sudah valid.</strong> Teruskan mas, semoga berkah membantu yang lain."</p>
+    </blockquote>
+    <cite>— <strong>Rivan Gestiardi</strong>, Universitas Malang<br>
+    <span class="target">Target: Postdoc</span></cite>
+  </div>
+  
+  <div class="satisfaction-stats">
+    <h3>Satisfaction Rate</h3>
+    <div class="stat-item">
+      <div class="number">100%</div>
+      <div class="label">Mentees kasih rating 5/5</div>
+    </div>
+    <div class="stat-item">
+      <div class="number">10/10</div>
+      <div class="label">Would recommend to others</div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="cta">
+  <h2>Mimpi Besar Itu Mungkin</h2>
+  <p>Dulu saya cuma anak STM yang kerja serabutan. Sekarang kerja di Denmark, udah keliling 15+ negara.</p>
+  <p class="emphasis">Kalo saya bisa, lo juga bisa.</p>
+  <p>Tapi langkah pertama ada di tangan lo. Jangan tunda lagi.</p>
+  
+  <div class="cta-buttons">
+    <a href="#layanan" class="btn-primary">Lihat Layanan Mentoring</a>
+    <a href="mailto:randyrff@gmail.com" class="btn-secondary">Hubungi Saya</a>
+  </div>
+</section>
