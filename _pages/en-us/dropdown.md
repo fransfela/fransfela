@@ -1,14 +1,20 @@
 ---
 id: dropdown
 layout: page
-title: submenus
+title: Mentoring
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: About
+    permalink: /mentoring-about/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Service
+    permalink: /mentoring-service/
+  - title: divider
+  - title: What they say
+      permalink: /mentoring-testimoni/
+  - title: divider
+  - title: Contact
+      permalink: /mentoring-contact/
 ---
