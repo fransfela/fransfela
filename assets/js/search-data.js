@@ -29,7 +29,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "Publications",
-          description: "My research spans from architectural acoustics and building physics to perceptual audio-visual quality evaluation, currently focusing on immersive media, experimental design optimization, and machine learning-based quality prediction.",
+          description: "My research spans from architectural acoustics and building physics to perceptual audio-visual quality evaluation, currently focusing on immersive media and next-gen AV communication devices, experimental design optimization, and machine learning-based quality prediction.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/publications/";
