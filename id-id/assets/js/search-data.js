@@ -29,7 +29,7 @@ ninja.data = [{
           },
         },{id: "nav-publikasi",
           title: "Publikasi",
-          description: "publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.",
+          description: "Riset saya berkembang dari akustik arsitektur dan fisika bangunan hingga evaluasi perseptual kualitas audio-visual, saat ini berfokus pada media imersif dan perangkat komunikasi AV generasi maju, optimasi desain eksperimen, dan prediksi kualitas berbasis machine learning.",
           section: "",
           handler: () => {
             window.location.href = "/id-id/publications/";
