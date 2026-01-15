@@ -4,54 +4,62 @@
 
 ### Perceptual Engineer & Researcher | Bridging AI Metrics with Human Perception
 
-[![Website](https://img.shields.io/badge/🌐_fransfela.com-Visit-blue?style=for-the-badge)](https://fransfela.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/randy-frans-fela)
-[![Google Scholar](https://img.shields.io/badge/Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar)](http://scholar.google.com/citations?user=XSBROGkAAAAJ&hl=en)
-[![YouTube](https://img.shields.io/badge/YouTube-@fransfela-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@fransfela)
+[![Website](https://img.shields.io/badge/🌐_fransfela.com-blue?style=flat-square)](https://fransfela.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/randy-frans-fela)
+[![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar)](http://scholar.google.com/citations?user=XSBROGkAAAAJ&hl=en)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@fransfela)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Perceptual+Audio-Visual+Engineer+%7C+GN+Group+Copenhagen;PhD+from+Technical+University+of+Denmark;Objective+Metrics+↔+Subjective+Perception+↔+Predictive+ML;Mentoring+Indonesian+Students+Since+2022)](https://git.io/typing-svg)
-
 </div>
 
 ---
 
-## 👨‍🔬 About Me
-
-**Perceptual Audio-Visual Engineer** at **GN Group (Jabra)** in Copenhagen, with a PhD from **Technical University of Denmark**.
-
-My research connects three worlds:
-- 🎯 **Objective Analysis**: Signal processing, feature extraction, acoustic/visual indices
-- 🧠 **Subjective Perception**: Psychoacoustics, visual perception, perceptual experiments  
-- 🤖 **Predictive Modeling**: ML/AI for quality prediction, perceptual metrics, deep learning
-
-**Domains:** Audio (soundscape, spatial audio, speech) + Visual (image/video quality, saliency, multimodal)
-
-Beyond research, I run **MentoringBangRandy** - helping Indonesian students study abroad (50+ success stories, €2M+ scholarships).
-
-💡 **My journey:** From blue-collar work to PhD researcher. Making advanced knowledge accessible to everyone.
-
-🌐 **Learn more:** [fransfela.com](https://fransfela.com)
-
----
-
+<div align="center">
+  
 ## 🔬 Research Focus
 
-**Audio Perception & Analysis**
-- Soundscape ecology & urban acoustics
-- Spatial audio & binaural rendering  
-- Psychoacoustic modeling & quality metrics
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**Visual Perception & Processing**
-- Image/video quality assessment (NR/FR metrics)
-- Visual attention & saliency modeling
-- Multimodal audio-visual interaction
+**Audio Quality & Communication**
+- Conversational audio quality & codec evaluation
+- Speech quality, enhancement & intelligibility
+- Spatial audio rendering for collaboration spaces
+- Audio communication devices & video bars
+
+</td>
+<td width="33%" valign="top">
+
+**Visual Quality & Enhancement**
+- Image/video quality in teleconference applications
+- Super-resolution & image enhancement
+- Video quality assessment (NR/FR metrics)
+
+**Perception & Multimodal**
+- Psychoacoustic modeling & quality metrics
+- Audio-visual interaction
+- Quality of Experience (QoE)
+
+</td>
+<td width="34%" valign="top">
 
 **Methods & Tools**
-- Objective: Feature extraction, acoustic/visual indices, signal processing
-- Subjective: Listening/viewing tests, ITU-R protocols, psychometrics
-- Predictive: Regression models, deep learning, perceptual ML
+- *Objective:* Feature extraction, signal processing, acoustic/visual indices
+- *Subjective:* Listening/viewing tests, ITU-R protocols, psychometrics
+- *Predictive:* Regression models, deep learning, perceptual ML
+
+**Personal Interest**
+- Soundscape ecology & environmental acoustics
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
+
+<div align="center">
 
 ## 🛠️ Tech Stack
 
@@ -69,12 +77,12 @@ Beyond research, I run **MentoringBangRandy** - helping Indonesian students stud
 **Audio Processing**  
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)  
-*Plus:* librosa • soundfile • essentia • soundecology
+*librosa • soundfile • essentia*
 
 **Visual Processing**  
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)  
-*Plus:* PIL • scikit-image • imageio
+*PIL • scikit-image • imageio*
 
 </td>
 <td width="50%" valign="top">
@@ -83,12 +91,12 @@ Beyond research, I run **MentoringBangRandy** - helping Indonesian students stud
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-*Plus:* XGBoost • LightGBM • Optuna
+*XGBoost • LightGBM • Optuna*
 
 **Data & Visualization**  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)  
-*Plus:* Matplotlib • Seaborn • ggplot2
+*Matplotlib • Seaborn • ggplot2*
 
 **Development**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -100,40 +108,25 @@ Beyond research, I run **MentoringBangRandy** - helping Indonesian students stud
 </tr>
 </table>
 
----
-
-## 📝 Latest Content
-
-<!-- BLOG-POST-LIST:START -->
-- [Living Book - [Soundscape (Bentang Suara): Teori, Metode, dan Analisis](https://fransfela.com/blog/2025/book-soundscape-analysis/)
-- [Living Notes - [Audio Quality Metrics: A Comprehensive Reference](https://fransfela.com/blog/2025/audio-quality-metrics-reference/)
-- [Living Notes - [Image and Video Quality Metrics: A Comprehensive Reference](https://fransfela.com/blog/2025/image-video-quality-metrics-reference/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [Read more articles](https://fransfela.com/blog)
-
----
-
-## 💬 Let's Connect
-
-I'm interested in:
-- 🤝 Research collaborations (audio-visual perception, quality assessment, soundscape)
-- 🔧 Open-source contributions (signal processing, perceptual tools)
-- 🎤 Speaking engagements (research, academia, career advice)
-- 🌟 Mentoring students (especially from non-traditional backgrounds)
-
-**Contact:** [fransfela.com](https://fransfela.com) | [LinkedIn](https://linkedin.com/in/randy-frans-fela) | randyrff@gmail.com
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 "From blue-collar work to bridging AI and human perception"
+## 💬 Let's Connect
 
-*Making perceptual engineering accessible | Empowering the next generation*
+**Collaborations:** Audio-visual perception • Quality assessment • QoE research  
+**Mentoring:** International study guidance (50+ students placed, €2M+ scholarships)
+
+📧 randyrff@gmail.com | 🌐 [fransfela.com](https://fransfela.com) | 💼 [LinkedIn](https://linkedin.com/in/randy-frans-fela)
+
+</div>
+
+---
+
+<div align="center">
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=randyfransfela&countColor=%2337d67a)
-
-⭐️ Found something interesting? Give my repos a star!
 
 </div>
