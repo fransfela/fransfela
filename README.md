@@ -117,7 +117,7 @@
 ## 💬 Let's Connect
 
 **Collaborations:** Audio-visual perception • Quality assessment • QoE research  
-**Mentoring:** International study guidance (50+ students placed, €2M+ scholarships)
+**Mentoring:** International study guidance
 
 📧 randyrff@gmail.com | 🌐 [fransfela.com](https://fransfela.com) | 💼 [LinkedIn](https://linkedin.com/in/randy-frans-fela)
 
